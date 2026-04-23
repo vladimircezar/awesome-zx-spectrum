@@ -22,6 +22,8 @@ TK95 no Brasil.
   - [Engenharia reversa e documentação técnica](#engenharia-reversa-e-documentação-técnica)
   - [Arte, música e demos](#arte-música-e-demos)
   - [Reviews, revistas e história](#reviews-revistas-e-história)
+    - [Revistas](#revistas)
+    - [Reviews e história](#reviews-e-história)
   - [Panorama Brasil e TK90X](#panorama-brasil-e-tk90x)
   - [Comunidades e sites de referência](#comunidades-e-sites-de-referência)
   - [Plataformas modernas relacionadas ao Spectrum](#plataformas-modernas-relacionadas-ao-spectrum)
@@ -82,6 +84,19 @@ recursos ajudam a explorar gráficos, música e demos.
 
 Cobertura histórica ajuda a preservar contexto sobre lançamentos, comunidades e
 práticas de desenvolvimento. A seção inclui periódicos e referências históricas.
+
+### Revistas
+
+- [CRASH Magazine (clássica)](https://www.crashonline.org.uk/) - Arquivo online das edições originais da CRASH e material relacionado ao ZX Spectrum.
+- [CRASH Magazine (moderna)](https://fusionretrobooks.com/collections/crash-magazine) - Fase atual impressa da CRASH publicada pela Fusion Retro Books.
+- [FREEZE-ZX](https://freeze64.com/freeze-zx/) - Fanzine moderno de ZX Spectrum publicado ao lado da FREEZE64.
+- [Jogos 80](https://www.jogos80.com.br/) - Revista digital brasileira focada em videogames e microcomputadores clássicos, incluindo ZX Spectrum.
+- [RetroSistemas](https://retrosistemas.com.br/) - Site brasileiro de retrocomputação com conteúdo editorial sobre sistemas clássicos.
+- [Sinclair User (clássica)](https://worldofspectrum.org/archive/magazines/sinclair-user) - Arquivo da revista britânica Sinclair User, de longa duração.
+- [Your Sinclair (clássica)](https://worldofspectrum.org/archive/magazines/your-sinclair) - Arquivo da clássica revista Your Sinclair dedicada ao ZX Spectrum.
+- [Your Spectrum (clássica)](https://worldofspectrum.org/archive/magazines/your-spectrum) - Arquivo da revista predecessora da Your Sinclair nos primeiros anos do Spectrum.
+
+### Reviews e história
 
 - [CompilationZX](https://compilationzx.com/) - Reviews e cobertura histórica focadas em compilações de ZX Spectrum.
 - [World of Spectrum Archive](https://worldofspectrum.org/archive) - Inclui revistas, livros, mapas, instruções e material histórico.

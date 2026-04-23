@@ -20,11 +20,13 @@ they are especially useful. The goal is quality over quantity.
   - [Emulators](#emulators)
   - [Development tools](#development-tools)
   - [Reverse engineering and technical docs](#reverse-engineering-and-technical-docs)
-  - [Art, music, and demos](#art-music-and-demos)
-  - [Reviews, magazines, and history](#reviews-magazines-and-history)
-  - [Brazil and TK90X survey](#brazil-and-tk90x-survey)
-  - [Communities and reference sites](#communities-and-reference-sites)
-  - [Modern Spectrum-related platforms](#modern-spectrum-related-platforms)
+- [Art, music, and demos](#art-music-and-demos)
+- [Reviews, magazines, and history](#reviews-magazines-and-history)
+  - [Magazines](#magazines)
+  - [Reviews and history](#reviews-and-history)
+- [Brazil and TK90X survey](#brazil-and-tk90x-survey)
+- [Communities and reference sites](#communities-and-reference-sites)
+- [Modern Spectrum-related platforms](#modern-spectrum-related-platforms)
   - [What this list tries to be](#what-this-list-tries-to-be)
   - [What this list avoids](#what-this-list-avoids)
   - [Contributing](#contributing)
@@ -82,6 +84,19 @@ help you explore graphics, music, and demo productions.
 
 Historical coverage helps preserve context around releases, communities, and
 development practices. This includes major periodical and historical references.
+
+### Magazines
+
+- [CRASH Magazine (classic)](https://www.crashonline.org.uk/) - Online archive for the original CRASH issues and related ZX Spectrum material.
+- [CRASH Magazine (modern)](https://fusionretrobooks.com/collections/crash-magazine) - Current CRASH print run from Fusion Retro Books.
+- [FREEZE-ZX](https://freeze64.com/freeze-zx/) - Modern ZX Spectrum fanzine published alongside FREEZE64.
+- [Jogos 80](https://www.jogos80.com.br/) - Brazilian digital magazine focused on classic video games and microcomputers, including ZX Spectrum.
+- [RetroSistemas](https://retrosistemas.com.br/) - Brazilian retro computing site with editorial content on classic systems.
+- [Sinclair User (classic)](https://worldofspectrum.org/archive/magazines/sinclair-user) - Archive of the long-running UK Sinclair User magazine.
+- [Your Sinclair (classic)](https://worldofspectrum.org/archive/magazines/your-sinclair) - Archive of the classic Your Sinclair ZX Spectrum magazine.
+- [Your Spectrum (classic)](https://worldofspectrum.org/archive/magazines/your-spectrum) - Archive of Your Sinclair's predecessor magazine from the early Spectrum years.
+
+### Reviews and history
 
 - [CompilationZX](https://compilationzx.com/) - Reviews and historical coverage centered on ZX Spectrum compilations.
 - [World of Spectrum Archive](https://worldofspectrum.org/archive) - Includes magazines, books, maps, instructions, and historical material.

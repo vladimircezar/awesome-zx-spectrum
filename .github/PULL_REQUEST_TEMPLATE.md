@@ -6,3 +6,4 @@
 - [ ] I wrote a short neutral description
 - [ ] I placed it in the best section
 - [ ] I sorted the section alphabetically where appropriate
+- [ ] If relevant, I updated both README.md and README.pt-BR.md

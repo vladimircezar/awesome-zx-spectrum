@@ -1,5 +1,7 @@
 # Awesome ZX Spectrum
 
+Language: **English** | [Português (Brasil)](README.pt-BR.md)
+
 A curated list of high-quality ZX Spectrum resources for playing, building, studying,
 preserving, and enjoying the Speccy.
 
@@ -10,19 +12,21 @@ they are especially useful. The goal is quality over quantity.
 
 ## Contents
 
-- [Archives and discovery](#archives-and-discovery)
-- [Emulators](#emulators)
-- [Development tools](#development-tools)
-- [Reverse engineering and technical docs](#reverse-engineering-and-technical-docs)
-- [Art, music, and demos](#art-music-and-demos)
-- [Reviews, magazines, and history](#reviews-magazines-and-history)
-- [Brazil and TK90X survey](#brazil-and-tk90x-survey)
-- [Communities and reference sites](#communities-and-reference-sites)
-- [Modern Spectrum-related platforms](#modern-spectrum-related-platforms)
-- [What this list tries to be](#what-this-list-tries-to-be)
-- [What this list avoids](#what-this-list-avoids)
-- [Contributing](#contributing)
-- [License](#license)
+- [Awesome ZX Spectrum](#awesome-zx-spectrum)
+  - [Contents](#contents)
+  - [Archives and discovery](#archives-and-discovery)
+  - [Emulators](#emulators)
+  - [Development tools](#development-tools)
+  - [Reverse engineering and technical docs](#reverse-engineering-and-technical-docs)
+  - [Art, music, and demos](#art-music-and-demos)
+  - [Reviews, magazines, and history](#reviews-magazines-and-history)
+  - [Brazil and TK90X survey](#brazil-and-tk90x-survey)
+  - [Communities and reference sites](#communities-and-reference-sites)
+  - [Modern Spectrum-related platforms](#modern-spectrum-related-platforms)
+  - [What this list tries to be](#what-this-list-tries-to-be)
+  - [What this list avoids](#what-this-list-avoids)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Archives and discovery
 
@@ -111,7 +115,6 @@ modern continuations and actively used Spectrum-compatible platforms.
 ## What this list tries to be
 
 - focused
-- curated
 - useful to both newcomers and veterans
 - respectful of preservation work
 - practical for developers as well as players
@@ -119,7 +122,6 @@ modern continuations and actively used Spectrum-compatible platforms.
 ## What this list avoids
 
 - link dumps
-- duplicate entries
 - low-value SEO pages
 - broken or abandoned resources unless historically important
 - direct piracy framing

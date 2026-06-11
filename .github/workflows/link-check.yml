@@ -14,7 +14,7 @@ jobs:
       - name: Check links in Markdown files
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --exclude-mail --accept 200,429 "./**/*.md"
+          args: --verbose --no-progress --accept 200,429 "./**/*.md"
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

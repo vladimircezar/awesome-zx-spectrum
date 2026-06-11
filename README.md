@@ -68,11 +68,12 @@ to assembly.
 This section focuses on low-level understanding, disassembly workflows, and
 format specifications, including technical material for Brazilian TK clones.
 
-- [Mapa da ROM do TK90X](https://www.tk90x.com.br/TK90XMapaROM.html) - Portuguese technical article on TK90X ROM internals based on period magazine material.
+- [Mapa da ROM do TK90X](http://tk90x.com.br/TK90XMapaROM.html) - Portuguese technical article on TK90X ROM internals based on period magazine material.
 - [RZX format specification](https://worldofspectrum.net/RZXformat.html) - Technical specification for the RZX input recording format.
 - [SkoolKit](https://skoolkit.ca/) - Toolkit for disassembling Spectrum software and generating browsable annotated output.
-- [TK90X Manual de Operacao (Datassette)](https://datassette.org/manuais/hardware-tk90x-tk95-microdigital-eletronica-manuais/tk90x-manual-de-operacao) - Archived reference page for the original Brazilian TK90X operation manual.
-- [TK95 - Manual de Operacao (Datassette)](https://datassette.org/manuais/sinclair-zx-spectrum/tk95-manual-de-operacao) - Archived reference page for the TK95 operation manual.
+- [Dominando TK90X e TK95 (Datassette)](https://datassette.org/pt-br/livros/sinclair/zx-spectrum/br-brasil/dominando-tk90x-e-tk95) - Archived Brazilian reference book for TK90X and TK95 users.
+- [Explorando TK90X (Datassette)](https://datassette.org/pt-br/livros/sinclair/zx-spectrum/br-brasil/explorando-tk90x-que-manual-nao-contou) - Archived Brazilian TK90X reference book focused on practical system details.
+- [TK90X/TK95 ROMs (Datassette)](https://datassette.org/pt-br/softwares/sinclair/zx-spectrum/firmwares/br-brasil/tk90x-tk95-roms) - Archived TK90X and TK95 firmware reference page.
 
 ## Art, music, and demos
 
@@ -107,9 +108,9 @@ development practices. This includes major periodical and historical references.
 Brazil played a major role in the Spectrum ecosystem through TK90X and TK95.
 These sources are useful for magazines, historical context, and local references.
 
-- [Coletanea ZX Spectrum - Micro Sistemas e Microhobby](https://datassette.org/revistas/diversos-diversos-br-brasil-informatica-revistas/coletanea-zx-spectrum-micro-sistemas-e-microhobby) - Curated collection of ZX Spectrum magazine material assembled from period sources.
-- [Datassette - Micro Sistemas](https://datassette.org/revistas/micro-sistemas) - Catalog page for the Brazilian Micro Sistemas magazine archive.
-- [Indices da revista Micro Sistemas](https://datassette.org/revistas/micro-sistemas-br-brasil-informatica-revistas/indices-da-revista-micro-sistemas) - Compiled index pages for locating topics across Micro Sistemas issues.
+- [Coletanea ZX Spectrum - Micro Sistemas e Microhobby](https://datassette.org/pt-br/revistas/informatica/br-brasil/diversos/coletanea-zx-spectrum-micro-sistemas-e-microhobby) - Curated collection of ZX Spectrum magazine material assembled from period sources.
+- [Datassette - Micro Sistemas](https://datassette.org/pt-br/revistas/informatica/br-brasil/micro-sistemas) - Catalog page for the Brazilian Micro Sistemas magazine archive.
+- [Indices da revista Micro Sistemas](https://datassette.org/pt-br/revistas/informatica/br-brasil/micro-sistemas/indices-revista-micro-sistemas) - Compiled index pages for locating topics across Micro Sistemas issues.
 - [Museu de Tecnologia Alterdata - TK 90X](https://museualterdata.com.br/acervo/computadores/tk-90x/) - Museum entry covering the Brazilian TK90X clone and its historical context.
 
 ## Communities and reference sites
@@ -117,7 +118,7 @@ These sources are useful for magazines, historical context, and local references
 These hubs are useful for day-to-day lookup, discovery, and cross-checking
 metadata.
 
-- [Clube do TK90X](https://www.tk90x.com.br/) - Long-running Brazilian community and reference site for TK90X/TK95 hardware, software, and history.
+- [Clube do TK90X](http://tk90x.com.br/) - Long-running Brazilian community and reference site for TK90X/TK95 hardware, software, and history.
 - [Spectrum Computing](https://spectrumcomputing.co.uk/) - Broad archive and reference hub for finding software and metadata.
 - [ZXDB](https://github.com/zxdb/ZXDB) - Best starting point for understanding the data layer behind several modern Spectrum archive projects.
 - [ZXInfo](https://zxinfo.dk/) - Fast reference site for searching titles, publishers, authors, and release details.

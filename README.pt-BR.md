@@ -59,6 +59,7 @@ Estas ferramentas apoiam fluxos modernos de desenvolvimento para ZX Spectrum, de
 BASIC e C até assembly.
 
 - [Boriel BASIC](https://boriel-basic.net/) - Compilador cruzado moderno de BASIC no estilo Sinclair para ZX Spectrum e sistemas compatíveis.
+- [Klive IDE](https://github.com/Dotneteer/kliveide) - Emulador e IDE multiplataforma para máquinas Sinclair baseadas em Z80, com fluxos para assembly, ZX BASIC e SjASMPlus.
 - [SjASMPlus](https://github.com/z00m128/sjasmplus) - Montador cruzado com bom suporte a ZX Spectrum e recursos modernos de desenvolvimento.
 - [z88dk](https://z88dk.org/site) - Kit de desenvolvimento para a família Z80 com suporte sólido a ZX Spectrum e máquinas relacionadas.
 

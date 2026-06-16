@@ -129,6 +129,7 @@ O ecossistema Spectrum não parou nos anos 1980. Esta seção reúne continuaç�
 modernas relevantes e plataformas compatíveis usadas ativamente.
 
 - [The Spectrum](https://retrogames.biz/products/thespectrum/) - Plataforma de hardware moderna da Retro Games Ltd focada em uso acessível e compatibilidade com Spectrum.
+- [vDrive ZX](https://vdrivezx.com) - Emulador externo de hardware para Microdrive em sistemas ZX Spectrum com expansão Interface 1.
 - [ZX Spectrum Next](https://www.specnext.com/) - Computador moderno baseado em FPGA que estende a plataforma Spectrum com foco em compatibilidade.
 
 ## O que esta lista busca ser

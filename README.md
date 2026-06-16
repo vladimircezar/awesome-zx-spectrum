@@ -129,6 +129,7 @@ The Spectrum ecosystem did not stop in the 1980s. This section tracks notable
 modern continuations and actively used Spectrum-compatible platforms.
 
 - [The Spectrum](https://retrogames.biz/products/thespectrum/) - Modern hardware platform from Retro Games Ltd focused on accessible Spectrum-compatible play.
+- [vDrive ZX](https://vdrivezx.com) - External Microdrive hardware emulator for ZX Spectrum systems using the Interface 1 expansion.
 - [ZX Spectrum Next](https://www.specnext.com/) - Modern FPGA-based computer that extends the Spectrum platform while keeping compatibility in focus.
 
 ## What this list tries to be

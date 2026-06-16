@@ -49,6 +49,7 @@ strong starting points for both browsing and deep research.
 Emulators keep the platform accessible on modern systems for play, testing, and
 preservation work.
 
+- [cyd-zxspectrum](https://github.com/kf106/cyd-zxspectrum) - Firmware that runs a 48K ZX Spectrum emulator on ESP32 Cheap Yellow Display boards.
 - [Fuse](https://fuse-emulator.sourceforge.net/) - Long-running open source ZX Spectrum emulator with support for many Spectrum models and formats.
 
 ## Modern hardware and platforms

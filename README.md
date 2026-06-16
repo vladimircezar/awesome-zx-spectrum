@@ -14,23 +14,21 @@ they are especially useful. The goal is quality over quantity.
 
 ## Contents
 
-- [Awesome ZX Spectrum](#awesome-zx-spectrum)
-  - [Contents](#contents)
-  - [Archives and discovery](#archives-and-discovery)
-  - [Emulators](#emulators)
-  - [Development tools](#development-tools)
-  - [Reverse engineering and technical docs](#reverse-engineering-and-technical-docs)
+- [Archives and discovery](#archives-and-discovery)
+- [Emulators](#emulators)
+- [Modern hardware and platforms](#modern-hardware-and-platforms)
+- [Development tools](#development-tools)
+- [Reverse engineering and technical docs](#reverse-engineering-and-technical-docs)
 - [Art, music, and demos](#art-music-and-demos)
-- [Reviews, magazines, and history](#reviews-magazines-and-history)
+- [Magazines, reviews, and history](#magazines-reviews-and-history)
   - [Magazines](#magazines)
   - [Reviews and history](#reviews-and-history)
 - [Brazil and TK90X survey](#brazil-and-tk90x-survey)
 - [Communities and reference sites](#communities-and-reference-sites)
-- [Modern Spectrum-related platforms](#modern-spectrum-related-platforms)
-  - [What this list tries to be](#what-this-list-tries-to-be)
-  - [What this list avoids](#what-this-list-avoids)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [What this list tries to be](#what-this-list-tries-to-be)
+- [What this list avoids](#what-this-list-avoids)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Archives and discovery
 
@@ -53,6 +51,15 @@ preservation work.
 
 - [Fuse](https://fuse-emulator.sourceforge.net/) - Long-running open source ZX Spectrum emulator with support for many Spectrum models and formats.
 
+## Modern hardware and platforms
+
+The Spectrum ecosystem did not stop in the 1980s. This section tracks notable
+modern hardware, compatible platforms, and well-known accessories.
+
+- [The Spectrum](https://retrogames.biz/products/thespectrum/) - Modern hardware platform from Retro Games Ltd focused on accessible Spectrum-compatible play.
+- [vDrive ZX](https://vdrivezx.com) - External Microdrive hardware emulator for ZX Spectrum systems using the Interface 1 expansion.
+- [ZX Spectrum Next](https://www.specnext.com/) - Modern FPGA-based computer that extends the Spectrum platform while keeping compatibility in focus.
+
 ## Development tools
 
 These tools support modern ZX Spectrum development workflows, from BASIC and C
@@ -68,11 +75,11 @@ to assembly.
 This section focuses on low-level understanding, disassembly workflows, and
 format specifications, including technical material for Brazilian TK clones.
 
+- [Dominando TK90X e TK95 (Datassette)](https://datassette.org/pt-br/livros/sinclair/zx-spectrum/br-brasil/dominando-tk90x-e-tk95) - Archived Brazilian reference book for TK90X and TK95 users.
+- [Explorando TK90X (Datassette)](https://datassette.org/pt-br/livros/sinclair/zx-spectrum/br-brasil/explorando-tk90x-que-manual-nao-contou) - Archived Brazilian TK90X reference book focused on practical system details.
 - [Mapa da ROM do TK90X](http://tk90x.com.br/TK90XMapaROM.html) - Portuguese technical article on TK90X ROM internals based on period magazine material.
 - [RZX format specification](https://worldofspectrum.net/RZXformat.html) - Technical specification for the RZX input recording format.
 - [SkoolKit](https://skoolkit.ca/) - Toolkit for disassembling Spectrum software and generating browsable annotated output.
-- [Dominando TK90X e TK95 (Datassette)](https://datassette.org/pt-br/livros/sinclair/zx-spectrum/br-brasil/dominando-tk90x-e-tk95) - Archived Brazilian reference book for TK90X and TK95 users.
-- [Explorando TK90X (Datassette)](https://datassette.org/pt-br/livros/sinclair/zx-spectrum/br-brasil/explorando-tk90x-que-manual-nao-contou) - Archived Brazilian TK90X reference book focused on practical system details.
 - [TK90X/TK95 ROMs (Datassette)](https://datassette.org/pt-br/softwares/sinclair/zx-spectrum/firmwares/br-brasil/tk90x-tk95-roms) - Archived TK90X and TK95 firmware reference page.
 
 ## Art, music, and demos
@@ -82,7 +89,7 @@ help you explore graphics, music, and demo productions.
 
 - [ZX-Art](https://zxart.ee/eng/) - Major archive for Spectrum graphics, music, demos, and scene releases.
 
-## Reviews, magazines, and history
+## Magazines, reviews, and history
 
 Historical coverage helps preserve context around releases, communities, and
 development practices. This includes major periodical and historical references.
@@ -122,15 +129,6 @@ metadata.
 - [Spectrum Computing](https://spectrumcomputing.co.uk/) - Broad archive and reference hub for finding software and metadata.
 - [ZXDB](https://github.com/zxdb/ZXDB) - Best starting point for understanding the data layer behind several modern Spectrum archive projects.
 - [ZXInfo](https://zxinfo.dk/) - Fast reference site for searching titles, publishers, authors, and release details.
-
-## Modern Spectrum-related platforms
-
-The Spectrum ecosystem did not stop in the 1980s. This section tracks notable
-modern continuations and actively used Spectrum-compatible platforms.
-
-- [The Spectrum](https://retrogames.biz/products/thespectrum/) - Modern hardware platform from Retro Games Ltd focused on accessible Spectrum-compatible play.
-- [vDrive ZX](https://vdrivezx.com) - External Microdrive hardware emulator for ZX Spectrum systems using the Interface 1 expansion.
-- [ZX Spectrum Next](https://www.specnext.com/) - Modern FPGA-based computer that extends the Spectrum platform while keeping compatibility in focus.
 
 ## What this list tries to be
 

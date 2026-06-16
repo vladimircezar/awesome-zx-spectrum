@@ -2,7 +2,7 @@
 
 ![Logo do Awesome ZX Spectrum](assets/awesome-zx-logo.png)
 
-Idioma: [English](README.md) | **Português (Brasil)**
+Idioma: 🇺🇸 [English](README.md) | 🇧🇷 **Português (Brasil)**
 
 Uma lista de recursos de alta qualidade sobre ZX Spectrum/TK90X para jogar,
 desenvolver, estudar, preservar e aproveitar esse grande pequeno computador.

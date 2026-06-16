@@ -2,7 +2,7 @@
 
 ![Awesome ZX Spectrum logo](assets/awesome-zx-logo.png)
 
-Language: **English** | [Português (Brasil)](README.pt-BR.md)
+Language: 🇺🇸 **English** | 🇧🇷 [Português (Brasil)](README.pt-BR.md)
 
 A curated list of high-quality ZX Spectrum resources for playing, building, studying,
 preserving, and enjoying the Speccy.

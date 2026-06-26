@@ -57,6 +57,7 @@ preservation work.
 The Spectrum ecosystem did not stop in the 1980s. This section tracks notable
 modern hardware, compatible platforms, and well-known accessories.
 
+- [RISKYSpeccy](https://github.com/arkadiuszmakarenko/RISKYSpeccy) - CH32V307 RISC-V cartridge for the ZX Spectrum edge connector with snapshot loading, tape playback, and Interface 2 ROM support.
 - [The Spectrum](https://retrogames.biz/products/thespectrum/) - Modern hardware platform from Retro Games Ltd focused on accessible Spectrum-compatible play.
 - [vDrive ZX](https://vdrivezx.com) - External Microdrive hardware emulator for ZX Spectrum systems using the Interface 1 expansion.
 - [ZX Spectrum Next](https://www.specnext.com/) - Modern FPGA-based computer that extends the Spectrum platform while keeping compatibility in focus.

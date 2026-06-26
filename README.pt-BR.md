@@ -57,6 +57,7 @@ e apoiar trabalho de preservação.
 O ecossistema Spectrum não parou nos anos 1980. Esta seção reúne hardware
 moderno relevante, plataformas compatíveis e acessórios conhecidos.
 
+- [RISKYSpeccy](https://github.com/arkadiuszmakarenko/RISKYSpeccy) - Cartucho RISC-V CH32V307 para o conector de expansão do ZX Spectrum, com carregamento de snapshots, reprodução de fitas e suporte a ROM Interface 2.
 - [The Spectrum](https://retrogames.biz/products/thespectrum/) - Plataforma de hardware moderna da Retro Games Ltd focada em uso acessível e compatibilidade com Spectrum.
 - [vDrive ZX](https://vdrivezx.com) - Emulador externo de hardware para Microdrive em sistemas ZX Spectrum com expansão Interface 1.
 - [ZX Spectrum Next](https://www.specnext.com/) - Computador moderno baseado em FPGA que estende a plataforma Spectrum com foco em compatibilidade.

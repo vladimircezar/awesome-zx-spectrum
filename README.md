@@ -70,6 +70,7 @@ to assembly.
 - [Boriel BASIC](https://boriel-basic.net/) - Modern cross-compiler for Sinclair-style BASIC targeting ZX Spectrum and compatible systems.
 - [Klive IDE](https://github.com/Dotneteer/kliveide) - Cross-platform emulator and IDE for Sinclair Z80-based machines with assembly, ZX BASIC, and SjASMPlus workflows.
 - [SjASMPlus](https://github.com/z00m128/sjasmplus) - Cross-assembler with strong ZX Spectrum support and modern development conveniences.
+- [ugBASIC](https://ugbasic.iwashere.eu/target/zx) - Cross-platform BASIC compiler with a ZX Spectrum target that can generate TAP tape files.
 - [z88dk](https://z88dk.org/site) - Z80-family development kit with strong support for ZX Spectrum and related machines.
 
 ## Reverse engineering and technical docs

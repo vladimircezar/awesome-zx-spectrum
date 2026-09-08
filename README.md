@@ -57,6 +57,8 @@ preservation work.
 The Spectrum ecosystem did not stop in the 1980s. This section tracks notable
 modern hardware, compatible platforms, and well-known accessories.
 
+- [NextNano](https://github.com/RetroSilicon/NextNano) - ZX Spectrum Next FPGA core for the Sipeed Tang Nano 20K.
+- [NextTang](https://github.com/jattree/NextTang) - GPLv3 port of Spectrum FPGA hardware to Sipeed Tang Console boards; 48K, 128K and Spec256 machines run on the Console 138K, with the Spectrum Next core in progress.
 - [RISKYSpeccy](https://github.com/arkadiuszmakarenko/RISKYSpeccy) - CH32V307 RISC-V cartridge for the ZX Spectrum edge connector with snapshot loading, tape playback, and Interface 2 ROM support.
 - [The Spectrum](https://retrogames.biz/products/thespectrum/) - Modern hardware platform from Retro Games Ltd focused on accessible Spectrum-compatible play.
 - [vDrive ZX](https://vdrivezx.com) - External Microdrive hardware emulator for ZX Spectrum systems using the Interface 1 expansion.
